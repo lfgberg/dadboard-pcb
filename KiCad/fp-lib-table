@@ -1,6 +1,5 @@
 (fp_lib_table
   (lib (name "Keebio-Parts")(type "KiCad")(uri "C:/Users/lfgab/Documents/GitHub/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "MX_Only")(type "KiCad")(uri "C:/Users/lfgab/Documents/GitHub/MX_Alps_Hybrid/MX_Only.pretty")(options "")(descr ""))
-  (lib (name "FancyHybridPrints")(type "KiCad")(uri "C:/Users/lfgab/Documents/Keyboards/FancyHybridPrints.pretty")(options "")(descr ""))
   (lib (name "Footprints")(type "KiCad")(uri "C:/Users/lfgab/Documents/Keyboards/Footprints.pretty")(options "")(descr ""))
 )
