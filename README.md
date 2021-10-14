@@ -14,6 +14,15 @@ PCB designed for [enwash](https://github.com/enwash) and [tesla.tech's]() [Dadbo
 
 Download the [latest release of the production files](https://github.com/lfgberg/dadboard-pcb/releases), and submit them to a PCB manufacturer like JLCPCB or PCBWay.
 
+## Assembly
+
+Required:
+* 1x EC11 Alps Rotary Encoder
+* 2x TRRS-PJ-320A Ports
+
+Optional:
+* 92 Kailh hotswap sockets
+
 ## License
 [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
