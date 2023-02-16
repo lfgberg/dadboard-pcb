@@ -23,6 +23,11 @@ Required:
 Optional:
 * 92 Kailh hotswap sockets
 
+## Author
+[Lfgberg](https://github.com/lfgberg)
+<br>
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lfgberg)
+
 ## License
 [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
